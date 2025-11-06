@@ -50,4 +50,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 Hey, I’m Prasanna Reddy, recently completed my b.tech graduation. looking for Entry-level data engineeing/data analyst job.
 
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.
+## 💡 Thanks for checking out the project!
