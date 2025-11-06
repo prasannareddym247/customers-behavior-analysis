@@ -12,12 +12,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
  🛠️ How to Use This Project
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   git clone https://github.com/prasannareddym247/customers-behavior-analysis
+   cd customers-behavior-analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
@@ -48,12 +49,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create interactive dashboard in Power BI
 
 
-
-
 ## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst 
-
-
+Hey, I’m Prasanna Reddy, recently completed my b.tech graduation. looking for Entry-level data engineeing/data analyst job.
 
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.
