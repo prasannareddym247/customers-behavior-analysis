@@ -31,7 +31,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+3. **Load the data from Python notebook into MS SQL Server**
 
       - Create a database in SQL
 
@@ -43,7 +43,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customers behaviour analysis.pbix**
    
       - Create interactive dashboard in Power BI
 
